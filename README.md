@@ -13,7 +13,6 @@ The pipeline includes:
 
 ## Project Structure
 
-```bash
 airflow-anomaly-detection-pipeline/
 │
 ├── data/                  # Dataset and results
